@@ -1,3 +1,11 @@
+#########################################################################################################################
+# This file just performs explorartory data analysis on a dataset containing renewable energy projects around the world. 
+# For access to the original data, visit http://ppi-re.worldbank.org/data 
+# Or download the data straight from http://ppi-re.worldbank.org/~/media/GIAWB/RE/Documents/RE-data-all.xls
+#########################################################################################################################
+
+
+
 # Loading packages and setting the directory.
 
 setwd("/Users/nonyeo./Documents/Spring 2019/DATA5100 - Statistical Analysis")
